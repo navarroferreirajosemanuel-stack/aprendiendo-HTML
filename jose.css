@@ -48,6 +48,8 @@ input[type="range"]::-moz-range-thumb {
 
 /* Estilos de la imagen */
 #miImagen {
+    width: 1px;
+    height: 1px;
     display: block;
     margin-top: 20px;
     border-radius: 8px;
